@@ -1,0 +1,376 @@
+[24-Aug-2018 09:21:43 America/Mexico_City] PHP Warning:  require(controllers/Home/HomeController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 7
+[24-Aug-2018 09:21:43 America/Mexico_City] PHP Warning:  require(controllers/Home/HomeController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 7
+[24-Aug-2018 09:21:43 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Home/HomeController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 7
+[25-Aug-2018 10:10:05 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:05 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:05 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:07 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:07 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:07 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:09 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:09 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:09 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:09 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:09 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:09 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:10 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:10 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:10 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:10 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:10 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:10 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:56 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:56 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:56 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:59 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:59 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:10:59 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:11:16 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:11:16 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:11:16 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:11:53 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:11:53 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:11:53 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:12:11 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:11 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:11 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:12 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:12 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:12 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:12 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:12 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:12 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:13 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:13 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:13 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:13 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:13 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:13 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:14 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:14 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:14 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:38 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:38 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:38 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:38 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:38 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:38 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:39 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:39 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:39 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:39 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:39 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:39 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:40 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:40 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:40 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:45 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:45 America/Mexico_City] PHP Warning:  require(models/user.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:12:45 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'models/user.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 13
+[25-Aug-2018 10:13:10 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:13:10 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:13:10 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:13:30 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:13:30 America/Mexico_City] PHP Warning:  require(controllers/Rooms/RoomsController.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 8
+[25-Aug-2018 10:13:30 America/Mexico_City] PHP Fatal error:  require(): Failed opening required 'controllers/Rooms/RoomsController.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 8
+[30-Aug-2018 14:23:16 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[01-Sep-2018 16:48:48 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:48:48 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:48:48 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:48:48 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:48:59 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:48:59 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:00 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:00 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:02 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:02 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:04 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:04 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:04 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:04 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:07 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/cimigeno/public_html/index.php on line 3
+[01-Sep-2018 16:49:07 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cimigeno/public_html/index.php on line 3
+[05-Sep-2018 12:37:07 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[10-Sep-2018 13:25:30 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[25-Sep-2018 11:25:57 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[25-Sep-2018 11:25:57 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[25-Sep-2018 11:41:31 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[25-Sep-2018 11:41:31 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[25-Sep-2018 11:54:21 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[25-Sep-2018 11:54:21 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[02-Oct-2018 11:19:05 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[02-Oct-2018 11:19:05 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[02-Oct-2018 11:19:05 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[02-Oct-2018 13:11:26 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[02-Oct-2018 13:11:26 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Oct-2018 09:13:40 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Oct-2018 18:25:07 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[03-Oct-2018 18:25:07 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[03-Oct-2018 18:25:07 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Oct-2018 18:25:07 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[04-Oct-2018 09:10:58 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[04-Oct-2018 09:10:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[04-Oct-2018 09:10:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[04-Oct-2018 09:11:09 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[04-Oct-2018 09:11:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[04-Oct-2018 09:11:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[04-Oct-2018 09:11:13 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[04-Oct-2018 09:11:13 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[04-Oct-2018 09:11:13 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[04-Oct-2018 09:11:18 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[04-Oct-2018 09:11:18 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[04-Oct-2018 09:11:18 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[04-Oct-2018 09:11:33 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[04-Oct-2018 09:11:33 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[04-Oct-2018 09:11:33 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[04-Oct-2018 09:11:36 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[04-Oct-2018 09:11:36 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[04-Oct-2018 09:11:36 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[05-Oct-2018 18:27:40 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[08-Oct-2018 16:38:34 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[08-Oct-2018 16:38:34 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[08-Oct-2018 16:38:34 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[10-Oct-2018 09:43:40 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[11-Oct-2018 18:17:12 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[13-Oct-2018 09:23:57 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[13-Oct-2018 10:05:26 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[15-Oct-2018 08:28:22 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[16-Oct-2018 12:18:15 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[16-Oct-2018 23:51:57 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[17-Oct-2018 10:44:55 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[17-Oct-2018 11:41:26 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[18-Oct-2018 09:51:38 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[18-Oct-2018 23:10:08 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[19-Oct-2018 01:02:21 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[19-Oct-2018 05:38:47 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[19-Oct-2018 14:46:18 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Oct-2018 01:33:17 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Oct-2018 10:44:18 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Oct-2018 19:56:10 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Oct-2018 22:09:14 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[21-Oct-2018 22:03:57 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Oct-2018 14:30:26 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Oct-2018 15:22:14 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Oct-2018 15:24:47 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Oct-2018 15:36:01 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:01 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:36:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:36:10 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:10 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:36:12 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:12 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:36:18 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:18 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:36:21 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:21 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:36:32 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:32 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:36:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:36:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:01 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:01 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:15 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:15 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:17 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:17 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:19 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:19 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:20 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:20 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:22 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:22 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Oct-2018 15:39:26 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Oct-2018 15:39:26 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[23-Oct-2018 12:22:55 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[23-Oct-2018 21:13:07 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[26-Oct-2018 20:16:52 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[26-Oct-2018 20:16:52 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[26-Oct-2018 20:16:54 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[26-Oct-2018 20:16:54 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[26-Oct-2018 20:16:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[26-Oct-2018 20:16:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[26-Oct-2018 20:17:01 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[26-Oct-2018 20:17:01 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[26-Oct-2018 20:17:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[26-Oct-2018 20:17:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[27-Oct-2018 22:09:08 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[27-Oct-2018 22:09:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[31-Oct-2018 15:38:36 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[31-Oct-2018 15:38:42 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[05-Nov-2018 15:26:17 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[07-Nov-2018 01:45:01 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[07-Nov-2018 05:00:32 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[07-Nov-2018 13:21:35 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[07-Nov-2018 14:16:28 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[08-Nov-2018 11:29:18 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[08-Nov-2018 16:36:44 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[09-Nov-2018 13:03:01 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 13:41:00 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 13:53:25 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:19:13 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:20:06 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:20:22 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:21:20 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:23:53 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:32:33 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:41:35 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:42:08 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 16:45:58 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 17:06:55 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[09-Nov-2018 18:00:29 America/Cancun] PHP Fatal error:  Cannot redeclare class phpmailerException in /home/cimigeno/public_html/email/class.phpmailer.php on line 2319
+[11-Nov-2018 02:28:09 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[15-Nov-2018 07:21:48 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[15-Nov-2018 10:08:17 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[15-Nov-2018 10:08:17 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[15-Nov-2018 10:35:53 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[15-Nov-2018 10:35:53 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[15-Nov-2018 20:43:58 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[16-Nov-2018 11:36:23 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[19-Nov-2018 18:10:33 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[19-Nov-2018 23:29:12 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Nov-2018 05:30:51 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Nov-2018 20:20:50 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Nov-2018 20:20:50 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[20-Nov-2018 20:20:50 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[21-Nov-2018 15:37:44 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[21-Nov-2018 15:37:44 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[21-Nov-2018 15:37:44 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[21-Nov-2018 15:37:44 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[21-Nov-2018 17:03:12 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[21-Nov-2018 22:53:52 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[21-Nov-2018 22:53:52 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[21-Nov-2018 22:53:52 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[21-Nov-2018 22:53:52 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[21-Nov-2018 22:58:09 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[21-Nov-2018 22:58:09 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[21-Nov-2018 22:58:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[21-Nov-2018 22:58:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 02:39:02 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Nov-2018 10:37:29 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Nov-2018 10:37:29 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:37:29 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:37:29 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 10:37:29 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 10:37:37 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Nov-2018 10:37:37 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:37:37 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:37:37 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 10:37:37 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 10:37:52 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Nov-2018 10:37:52 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:37:52 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:37:52 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 10:37:52 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 10:38:06 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Nov-2018 10:38:06 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:38:06 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:38:06 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 10:38:06 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 10:38:20 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Nov-2018 10:38:20 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:38:20 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 10:38:20 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 10:38:20 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 14:44:09 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 14:44:09 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1736
+[22-Nov-2018 14:44:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 14:44:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 16:08:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 16:08:09 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[22-Nov-2018 16:14:18 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[22-Nov-2018 16:14:18 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[23-Nov-2018 15:37:34 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[23-Nov-2018 21:53:00 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[24-Nov-2018 20:01:17 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[26-Nov-2018 22:07:01 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[27-Nov-2018 12:25:16 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[27-Nov-2018 16:47:34 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[28-Nov-2018 15:38:03 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[28-Nov-2018 17:28:23 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[29-Nov-2018 17:56:17 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[30-Nov-2018 03:45:08 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[30-Nov-2018 15:52:11 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[30-Nov-2018 16:32:51 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[30-Nov-2018 22:49:01 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[02-Dec-2018 21:13:31 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Dec-2018 02:44:16 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Dec-2018 14:35:56 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[04-Dec-2018 14:15:22 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[06-Dec-2018 02:00:12 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[06-Dec-2018 02:02:03 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[06-Dec-2018 16:37:01 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[07-Dec-2018 14:08:31 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[08-Dec-2018 11:04:20 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[09-Dec-2018 01:00:29 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[10-Dec-2018 13:49:12 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[10-Dec-2018 13:49:12 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[10-Dec-2018 13:52:57 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[10-Dec-2018 13:52:57 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[10-Dec-2018 13:52:57 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[10-Dec-2018 13:54:57 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[10-Dec-2018 13:54:57 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[10-Dec-2018 13:54:57 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[14-Dec-2018 21:43:48 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[16-Dec-2018 00:04:42 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[16-Dec-2018 09:14:48 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[16-Dec-2018 11:47:53 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[17-Dec-2018 17:18:47 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[18-Dec-2018 13:24:39 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[19-Dec-2018 21:09:58 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Dec-2018 00:28:40 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[20-Dec-2018 09:49:54 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[20-Dec-2018 09:49:54 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[20-Dec-2018 09:54:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[20-Dec-2018 09:54:03 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[20-Dec-2018 22:12:58 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[21-Dec-2018 00:02:00 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Dec-2018 09:50:46 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Dec-2018 10:13:48 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Dec-2018 14:45:54 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Dec-2018 14:46:07 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Dec-2018 14:46:47 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Dec-2018 14:47:38 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[22-Dec-2018 18:41:49 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[23-Dec-2018 16:05:22 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[23-Dec-2018 18:10:18 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[23-Dec-2018 18:10:33 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[23-Dec-2018 22:44:47 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[25-Dec-2018 13:04:05 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[27-Dec-2018 19:35:35 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[29-Dec-2018 00:35:25 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[29-Dec-2018 09:06:34 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[29-Dec-2018 09:28:29 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[31-Dec-2018 02:17:40 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[31-Dec-2018 16:35:21 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[02-Jan-2019 09:27:31 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[02-Jan-2019 10:32:54 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[02-Jan-2019 13:22:05 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[02-Jan-2019 14:16:47 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Jan-2019 10:46:27 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Jan-2019 11:32:24 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Jan-2019 16:08:13 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Jan-2019 16:08:13 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 16:08:13 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Jan-2019 16:12:50 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Jan-2019 16:12:50 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 16:12:50 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Jan-2019 20:08:11 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 20:08:11 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Jan-2019 20:19:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 20:19:58 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Jan-2019 20:22:17 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Jan-2019 20:27:48 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 20:27:48 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Jan-2019 20:40:30 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 20:40:30 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Jan-2019 21:02:43 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727
+[03-Jan-2019 21:34:47 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 21:34:47 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[03-Jan-2019 22:01:06 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[03-Jan-2019 22:01:06 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[04-Jan-2019 17:44:24 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1471
+[04-Jan-2019 17:44:24 America/Cancun] PHP Deprecated:  Function set_magic_quotes_runtime() is deprecated in /home/cimigeno/public_html/email/class.phpmailer.php on line 1475
+[06-Jan-2019 20:10:12 America/Cancun] PHP Deprecated:  preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead in /home/cimigeno/public_html/email/class.phpmailer.php on line 1727

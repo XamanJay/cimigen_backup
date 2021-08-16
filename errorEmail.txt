@@ -1,0 +1,449 @@
+
+
+--------------- Error al enviar mensaje2018/10/23--------------
+
+exception 'phpmailerException' with message 'Could not access file: ' in /home/cimigeno/public_html/email/class.phpmailer.php:1347
+Stack trace:
+#0 /home/cimigeno/public_html/controllers/Home/HomeController.php(264): PHPMailer->AddAttachment('', '')
+#1 [internal function]: HomeController->postTalento()
+#2 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#3 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/talento')
+#4 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Wed, 31 O...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Wed, 31 O...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Wed, 31 O...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'Could not access file: ' in /home/cimigeno/public_html/email/class.phpmailer.php:1347
+Stack trace:
+#0 /home/cimigeno/public_html/controllers/Home/HomeController.php(266): PHPMailer->AddAttachment('', '')
+#1 [internal function]: HomeController->postTalento()
+#2 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#3 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/talento')
+#4 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'Could not access file: ' in /home/cimigeno/public_html/email/class.phpmailer.php:1347
+Stack trace:
+#0 /home/cimigeno/public_html/controllers/Home/HomeController.php(266): PHPMailer->AddAttachment('', '')
+#1 [internal function]: HomeController->postTalento()
+#2 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#3 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/talento')
+#4 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'Could not access file: ' in /home/cimigeno/public_html/email/class.phpmailer.php:1347
+Stack trace:
+#0 /home/cimigeno/public_html/controllers/Home/HomeController.php(266): PHPMailer->AddAttachment('', '')
+#1 [internal function]: HomeController->postTalento()
+#2 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#3 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/talento')
+#4 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Wed, 31 O...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/10/31--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Wed, 31 O...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/01--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Thu, 1 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/01--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Thu, 1 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/01--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Thu, 1 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/01--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Thu, 1 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/01--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Thu, 1 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/01--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Thu, 1 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/01--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Thu, 1 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/02--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 2 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(203): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/09--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not connect to SMTP host.' in /home/cimigeno/public_html/email/class.phpmailer.php:820
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 9 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(181): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/09--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not connect to SMTP host.' in /home/cimigeno/public_html/email/class.phpmailer.php:820
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 9 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(181): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/09--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not connect to SMTP host.' in /home/cimigeno/public_html/email/class.phpmailer.php:820
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 9 No...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(181): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
+
+--------------- Error al enviar mensaje2018/11/16--------------
+
+exception 'phpmailerException' with message 'SMTP Error: Could not authenticate.' in /home/cimigeno/public_html/email/class.phpmailer.php:814
+Stack trace:
+#0 /home/cimigeno/public_html/email/class.phpmailer.php(705): PHPMailer->SmtpConnect()
+#1 /home/cimigeno/public_html/email/class.phpmailer.php(576): PHPMailer->SmtpSend('Date: Fri, 16 N...', '<p>Mensaje de l...')
+#2 /home/cimigeno/public_html/controllers/Home/HomeController.php(181): PHPMailer->Send()
+#3 [internal function]: HomeController->postContacto()
+#4 /home/cimigeno/public_html/vendor/phroute/phroute/src/Phroute/Dispatcher.php(58): call_user_func_array(Array, Array)
+#5 /home/cimigeno/public_html/index.php(48): Phroute\Phroute\Dispatcher->dispatch('POST', '/contacto')
+#6 {main}
